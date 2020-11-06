@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E01D5315-B774-4F74-8433-C17CF0D363F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099 - 73a6e16feff454b7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tip.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/DEVELOPMENT/Tipsy/Tipsy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099 - 3c102c99840ed093"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tip.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/DEVELOPMENT/Tipsy/Tipsy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099 - 711408a37a51ba19"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tip.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/DEVELOPMENT/Tipsy/Tipsy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099 - d934f27364c368ec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tip.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/DEVELOPMENT/Tipsy/Tipsy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099 - d4e78ab1e23f15cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.ViewController"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/DEVELOPMENT/Tipsy/Tipsy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "9D4339B3-D22D-4F41-AD18-1137E47DE099 - f206ad7535bc3d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.ViewController&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/DEVELOPMENT/Tipsy/Tipsy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
